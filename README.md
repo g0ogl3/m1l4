@@ -21,8 +21,8 @@
 
 ## 📸 Скриншоты
 
-![Пример создания покемона](https://user-images.githubusercontent.com/https://ibb.co/g7KtqrX)
-![Пример сражения](https://user-images.githubusercontent.com/https://ibb.co/CHWCW33)
+![Пример создания покемона](https://ibb.co/g7KtqrX)
+![Пример сражения](https://ibb.co/CHWCW33)
 
 ## 🛠️ Установка и запуск
 
