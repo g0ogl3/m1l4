@@ -21,8 +21,8 @@
 
 ## 📸 Скриншоты
 
-![Пример создания покемона](https://user-images.githubusercontent.com/https://mail.google.com/mail/u/0?ui=2&ik=d2ee687e22&attid=0.1&permmsgid=msg-a:r9071406158793685592&th=193791de3f6dbb5c&view=fimg&fur=ip&permmsgid=msg-a:r9071406158793685592&sz=s0-l75-ft&attbid=ANGjdJ92PbaFnUCNRHdhyXNiMqhHvAF0JnR2KnGvQgbQK8AsDbQTzYvju9vvV5huuiQGz94W6L_m0Nc8jhMJW78LdEVc1isVCjQMXrI0YJkzthAbd_x854tEVovPkk0&disp=emb&realattid=ii_m4326q1n0&zw)
-![Пример сражения](https://user-images.githubusercontent.com/https://mail.google.com/mail/u/0?ui=2&ik=d2ee687e22&attid=0.1&permmsgid=msg-a:r-3868200950399654729&th=1937921d967a33ca&view=fimg&fur=ip&permmsgid=msg-a:r-3868200950399654729&sz=s0-l75-ft&attbid=ANGjdJ8kcxqQnrYeVihCBLNb_AsoeN-eZFbwcRBdkJck1enbJ9tBboLl3agXqvMGUyu7ymcWi-7MRxNEAQEAOgcp0g8-GljGQYCyRB-OoULK_T4bc_cf-9i_smNUeCQ&disp=emb&realattid=ii_m432cd8e0&zw)
+![Пример создания покемона](https://user-images.githubusercontent.com/https://ibb.co/g7KtqrX)
+![Пример сражения](https://user-images.githubusercontent.com/https://ibb.co/CHWCW33)
 
 ## 🛠️ Установка и запуск
 
